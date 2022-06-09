@@ -1,0 +1,168 @@
+body {
+  padding-top: 0;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-weight: normal;
+  color: #66BFBF;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Slabo 27px', serif;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-top: 10px dotted;
+  color: #EAF6F6;
+}
+
+.top {
+  background-color: #FCF8E8;
+  height: auto;
+}
+
+.mountain {
+  display: block;
+  width: auto;
+  margin: auto;
+  max-height: 30%;
+}
+
+.cloud-1 {
+  position: relative;
+  left: 500px;
+  top: 100px;
+  width: 150px;
+}
+
+.cloud-2 {
+  position: relative;
+  right: 500px;
+  bottom: 200px;
+  width: 150px;
+}
+
+.profile {
+  color: #40514E;
+  width: 33%;
+  margin: auto;
+}
+
+.skill-1 {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-2 {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.isim {
+  font-family: "Papyrus"
+}
+
+.pro {
+  font-family: "Lucida Handwriting";
+}
+
+.profile-pic {
+  margin-top: 50px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.sonyazi {
+  width: 33%;
+  margin: 25px auto;
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.bottom {
+  background-color: #66BFBF;
+  padding: 50px 0 1px;
+}
+
+.footer-link {
+  padding-left: 25px;
+  padding-right: 25px;
+  color: #11999E;
+}
+
+.btn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E, #11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: linear-gradient(to bottom, #11999E, #11999E);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: red;
+  background-image: -webkit-linear-gradient(top, red, red);
+  background-image: -moz-linear-gradient(top, red, red);
+  background-image: -ms-linear-gradient(top, red, red);
+  background-image: -o-linear-gradient(top, red, red);
+  background-image: linear-gradient(to bottom, red, red);
+  text-decoration: none;
+}
+
+.copyright {
+  margin: 25px auto 30px auto;
+  color: #EAF6F6;
+}
