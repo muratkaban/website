@@ -45,7 +45,7 @@ hr {
   width: 5%;
   border-style: dotted none none none;
   border-top: 10px dotted;
-  color: #EAF6F6;
+  color: #DF7861;
 }
 
 .top {
@@ -62,14 +62,14 @@ hr {
 
 .cloud-1 {
   position: relative;
-  left: 500px;
+  left: 25%;
   top: 100px;
   width: 150px;
 }
 
 .cloud-2 {
   position: relative;
-  right: 500px;
+  right: 25%;
   bottom: 200px;
   width: 150px;
 }
@@ -153,12 +153,12 @@ hr {
 }
 
 .btn:hover {
-  background: red;
-  background-image: -webkit-linear-gradient(top, red, red);
-  background-image: -moz-linear-gradient(top, red, red);
-  background-image: -ms-linear-gradient(top, red, red);
-  background-image: -o-linear-gradient(top, red, red);
-  background-image: linear-gradient(to bottom, red, red);
+  background: #DF7861;
+  background-image: -webkit-linear-gradient(top, #DF7861, #DF7861);
+  background-image: -moz-linear-gradient(top, #DF7861, #DF7861);
+  background-image: -ms-linear-gradient(top, #DF7861, #DF7861);
+  background-image: -o-linear-gradient(top, #DF7861, #DF7861);
+  background-image: linear-gradient(to bottom, #DF7861, #DF7861);
   text-decoration: none;
 }
 
